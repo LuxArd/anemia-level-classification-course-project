@@ -2,7 +2,7 @@
 
 ## Educational Data Science Course Project
 
-This is a documentation-first public record of an earlier machine-learning learning exercise. It explored classification methods on an external dataset containing anemia-related variables.
+Created in **2024** as part of my Data Science learning journey, this is a documentation-first public record of an earlier machine-learning learning exercise. It explored classification methods on an external dataset containing anemia-related variables.
 
 ## What was explored
 
